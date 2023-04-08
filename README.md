@@ -5,3 +5,5 @@
 
 2. Добавлено взаимодействие между inventory и product сервисами.
 Посылается синхронный http запрос.
+
+3. Добавлен Discovery Server (Netflix Eureka), можно зайти по http://localhost:8761/ после запуска всех сервисов.
