@@ -7,3 +7,5 @@
 Посылается синхронный http запрос.
 
 3. Добавлен Discovery Server (Netflix Eureka), можно зайти по http://localhost:8761/ после запуска всех сервисов.
+
+4. Добавлен API Gateway.
