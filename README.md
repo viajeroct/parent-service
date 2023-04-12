@@ -12,3 +12,5 @@
 
 5. Реализация Event Driven архитектуры с помощью Kafka, отсылает уведомления для notification-service, когда заказ
 послан в order-service.
+
+6. Прочитал подробную статью на Habr о Mockito, в модуле mockito-learn есть примеры тестов.
