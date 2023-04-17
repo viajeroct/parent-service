@@ -14,3 +14,7 @@
 послан в order-service.
 
 6. Прочитал подробную статью на Habr о Mockito, в модуле mockito-learn есть примеры тестов.
+
+7. Circuit Breaker pattern между order и inventory сервисами, используя Resilience4J.
+
+8. Изучен механизм миграции БД с помощью Flyway.

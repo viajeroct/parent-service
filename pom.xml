@@ -23,6 +23,7 @@
         <module>api-gateway</module>
         <module>notification-service</module>
         <module>mockito-learn</module>
+        <module>migration-db</module>
     </modules>
 
     <properties>
